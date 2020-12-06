@@ -10,7 +10,7 @@ namespace Gittestapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Привет Мир!");
             Console.WriteLine("В этой строке содержится новый функционал");
         }
     }
